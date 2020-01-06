@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Yajariyu yajariyu@gmail.com yajariyu
     <name> -- <role> -- <twitter>
 
 # THANKS
