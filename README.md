@@ -14,4 +14,7 @@ Description deployemnt
 ## Contribute
 Contribution
 
+##Copyright
+Description copy
+
 Sample website with plenty of files for demos
