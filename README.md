@@ -15,6 +15,6 @@ Description deployemnt
 Contribution
 
 ##Copyright
-Description copy
+Description copy. All righ reserved !!!!!!
 
 Sample website with plenty of files for demos
